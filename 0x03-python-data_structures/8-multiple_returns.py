@@ -10,4 +10,4 @@ def multiple_returns(sentence):
                 first_character == None
    
          
-      print("length : {:d}, sentence[0]".format(length, first_character))
+      print("length : {:d}, first_character: ".format(length, first_character)
